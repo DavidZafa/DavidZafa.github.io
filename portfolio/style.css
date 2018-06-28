@@ -1,0 +1,79 @@
+h1 {
+  font-size: 36px;
+  text-align: center;
+  color: Yellow;
+  text-decoration: underline;
+  font-family: 'IM Fell English SC', serif;
+
+}
+
+h2{
+  color: white;
+  font-family: 'IM Fell English SC', serif;
+  text-align: left;
+  border-style: dashed;
+  border-color: black;
+  display: block;
+  width: 15%;
+  padding-left: 30px;
+  background-image: url("https://vignette.wikia.nocookie.net/overwatch/images/9/9f/Spray_-_Red_X.png/revision/latest?cb=20160715183441");
+  background-size: cover;
+
+
+}
+
+p {
+  text-align: center;
+
+}
+
+button {
+background-image: url("https://followmyvote.com/wp-content/uploads/2015/07/iStock_000012706832_Medium-compressor.jpg");
+background-position: center;
+background-size: cover;
+  border: none;
+  color: red;
+  padding: 10px 30px;
+  border-style: dashed;
+  border-width: thick;
+  text-align: center;
+  display: block;
+  font-size: 16px;
+  font-weight: bold;
+  width: 30%;
+  margin-left: 35%;
+margin-right: 30%
+}
+
+
+footer{
+  text-align: center;
+  font-family: 'IM Fell English SC', serif;
+}
+
+img {
+  width: 20%;
+  height: auto;
+}
+
+body{
+  background-image: url("https://i.pinimg.com/736x/65/38/2f/65382fdd941c9b6c39355d4bf1626d0e--pirate-maps-pirate-theme.jpg");
+  background-size: cover;
+}
+
+.nav {
+  text-align: left;
+  margin: 0 auto;
+  padding-right: 80px;
+  font-family: 'IM Fell English SC', serif;
+
+}
+
+.active {
+  float: right;
+  font-size: 20PX;
+}
+
+html {
+  border-style: dashed;
+}
