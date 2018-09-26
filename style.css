@@ -14,8 +14,13 @@ p {font-size: 16px;}
     color: #ffffff;
 }
 .bg-3 {
-    background-color: #ffffff; /* White */
+    background-color: #1abc9c; /* White */
     color: #555555;
+}
+.bg-6 {
+  background-color: #474e5d; /* Green */
+  color: #ffffff;
+
 }
 .bg-4 {
     background-color: #2f2f2f; /* Black Gray */
@@ -47,12 +52,17 @@ p {font-size: 16px;}
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
+    color: black;
 }
 
 .breadcrumb {
   display: inline-block;
   color: black;
   max-width: 830px;
+}
+
+.margin {
+  color: white;
 }
 
 .about {
