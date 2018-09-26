@@ -68,6 +68,10 @@ p {
     margin: auto;
 }
 
+.link {
+  border-right: : 1px solid black;
+}
+
 
 .links {
   border-style: 1px solid black;
